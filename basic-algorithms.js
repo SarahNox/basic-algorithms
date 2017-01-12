@@ -29,6 +29,3 @@ else if (hacker2 < hacker1) {
 else {
   console.log("What?! You both got the same name?");
 }
-
-
-// Lorem ipsum generator
